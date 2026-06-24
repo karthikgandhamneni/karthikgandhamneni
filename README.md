@@ -29,7 +29,3 @@
 * Strengthen problem-solving skills
 * Explore cloud platforms and deployment
 
-
----
-
-*"Code. Learn. Build. Repeat."*
