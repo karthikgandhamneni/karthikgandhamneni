@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Karthik
 
-<!--
-**karthikgandhamneni/karthikgandhamneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔥 Solving DSA problems regularly
+* ☁️ Exploring Cloud Computing
+* 🐍 Familiar with Python fundamentals
+* ☕ Strong foundation in Java
+* ⚡ Comfortable with C++
+* 🚀 Looking to build real-world projects and improve development skills
+
+## 🛠️ Skills
+
+* Java
+* C++
+* C
+* Python
+* Data Structures & Algorithms
+
+## 🌱 Currently Learning
+
+* Cloud Computing
+
+## 🎯 Goals
+
+* Build impactful projects
+* Strengthen problem-solving skills
+* Explore cloud platforms and deployment
+
+
+---
+
+*"Code. Learn. Build. Repeat."*
